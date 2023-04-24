@@ -30,4 +30,5 @@ The code is well-commented and includes some utility functions for loading and p
 This code is distributed under the [MIT license](https://github.com/abelkwong/xgboost_customer_churn/blob/main/LICENSE). The [dataset](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset) can be downloaded on Kaggle. If you use this code or the dataset for your research, please cite the following papers:
 
 > "Soares, Eduardo, Angelov, Plamen, Biaso, Sarah, Higa Froes, Michele, and Kanda Abe, Daniel. "SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification." medRxiv (2020). doi: https://doi.org/10.1101/2020.04.24.20078584."
+
 > "Angelov, P., & Soares, E. (2020). Towards explainable deep neural networks (xDNN). Neural Networks, 130, 185-194."
