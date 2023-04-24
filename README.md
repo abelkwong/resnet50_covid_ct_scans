@@ -11,7 +11,7 @@ The main entry point of the model is the `train.py file`, which contains the fol
 
 The `predict.py` file can be used to make predictions on new CT scans using a trained ResNet50 model.
 
-The code is well-commented and includes some utility functions for loading and preprocessing the images. The `requirements.txt file` lists the required Python packages, and the `data folder` contains a sample dataset of COVID-19 and non-COVID-19 CT scans.
+The code is well-commented and includes some utility functions for loading and preprocessing the images. The `requirements.txt` file lists the required Python packages, and the `data folder` contains a sample dataset of COVID-19 and non-COVID-19 CT scans.
 
 ## Requirements
 - Python 3.6 or later
